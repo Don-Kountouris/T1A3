@@ -14,4 +14,4 @@ gem 'pastel', '~> 0.8.0'
 
 gem 'tty-spinner', '~> 0.9.3'
 
-gem 'ruby2d', '~> 0.9.2'
+gem 'ruby2d', '~> 0.11.3'
