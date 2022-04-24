@@ -114,3 +114,12 @@ Game Play
 
 "Only guess 1 letter at a time please."
 - If the player enters more the one letter at a time the game will notify the player that this is not allowed and neither add not deduct a game life.
+
+Outcome
+
+"Congratulations, you have won this round!"
+- If the player wins the game, the player is notified.
+
+"Game over, better luck next time."
+- If the player loses the game, the player is notified. 
+
