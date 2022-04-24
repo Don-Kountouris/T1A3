@@ -100,3 +100,17 @@ Main Menu
 
 "Clue: ..."
 - The second clue is given in the form of a phrase that describes or defines the word.
+
+Game Play
+
+"Enter a letter..."
+- The game instructs the player to begin playing and enter a letter.
+
+"You are correct!"
+- If the player answers correct, the game notifies the player and adds the correct letter into the mystery word.
+
+"Sorry, you have (number) lives left. Try again."
+- If the player answer incorrectly, the game notifies the player and the player loses a game life.
+
+"Only guess 1 letter at a time please."
+- If the player enters more the one letter at a time the game will notify the player that this is not allowed and neither add not deduct a game life.
