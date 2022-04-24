@@ -40,4 +40,10 @@ Clear and Concise Set of Rules:
 
 The game is simple and its instructions follow this trend. There is no need to add convoluted rules or instructions as the game is intuitive and played similarly to many other classic word games.
 
+Colourised Text:
+
+Terminal is usually viewed in a simplistic form where text is a standard primary feature. Although Hangman is a simple game, if played in such a format as that of Terminal could become monotonous. In order to not only separate the game's text from the standard Terminal text, both bold and colourised text is used to stimulate the player. This colourised text also allows the player to easily identify different information given throughout the game. For example, if a player enters a correct answer the text colour is green, whereas if the player enters answers incorrectly the text is red.
+
+
+
 
