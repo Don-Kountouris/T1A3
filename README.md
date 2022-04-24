@@ -131,4 +131,4 @@ Outcome
 
 In the spec file 'Hangman_Spec.rb', 2 specific tests are conducted for specific sections that I wanted to implement while developing the game. 
 
-
+1. The first test is determining if the number of letters that exists within the randomly chosen 'mystery word' is printed. The test refers to the array of 'mystery words' and their corresponding 'clue phrase'. This particular test is important because it is a clue and if the player is mislead or misinformed via such a clue, the game will be unfair and any direction or instruction from the game can not be taken as a clear and accurate direction.
