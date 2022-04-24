@@ -60,3 +60,9 @@ As with traditional arcade games, this game follows the 2D, 'raw' and block them
 
 tty-font: https://rubygems.org/gems/tty-font
 pastel: https://rubygems.org/gems/pastel
+
+Suspense:
+
+A great addition to any game is suspense. Similar to TV Game Shows, such as The Chaser, contestants are never immediatley informed if their answers are right or wrong but are forced to wait a short period of time which easily creates suspense. In this game, when a player enters a letter, a small spinning line in square brackets indicates that their answer is being processed. This is done by using the spinner-gem. Once the line stops spiining, of the answer is correct a tick will appear. If the answer is wrong a cross will appear. This creates a small fraction of suspense while waiting for the outcome of the players answer. 
+
+tty-spinner: https://rubygems.org/gems/tty-spinner
