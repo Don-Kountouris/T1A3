@@ -22,10 +22,22 @@ Introduction:
 Playing the game:
 
 6. The player is told to enter a letter.
-7. Correct Ans: Once a letter has been entered, if correct the letter fills its space(s), the player is congratulated and asked to make their next guess.
-   Incorrect Ans: If the player enters an incorrect answer, the letter is not included, the player is notified that they have made an error, they lose one    of their 6 chances to play and asked to make their next guess.
+      Correct Ans: Once a letter has been entered, if correct the letter fills its space(s), the player is congratulated and asked to make their next             guess.
+      Incorrect Ans: If the player enters an incorrect answer, the letter is not included, the player is notified that they have made an error, they lose         one of their 6 chances to play and asked to make their next guess.
 
 Completing the game:
 
 7. Winning: If the player completes the word within their 6 chances/lives, the player is congratulated and wins the game.
    Losing: If the player does not complete the word and has run out of chances, the player has been told that they have lost the game and can try again.
+   
+# FEATURES
+
+Game Host:
+
+Once the game begins there is a host that guides the player throughout the game. This allows the player to have a step-by-step instruction on how to begin the game, answer questions, be guided by clues and understand the results of your answers. On some devices the game's host is vocalised in order to allow for a greater interactive experience while playing the game.
+
+Clear and Concise Set of Rules:
+
+The game is simple and its instructions follow this trend. There is no need to add convoluted rules or instructions as the game is intuitive and played similarly to many other classic word games.
+
+
