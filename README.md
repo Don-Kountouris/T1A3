@@ -16,5 +16,8 @@ Introduction:
 
 1. The player is told that a new game has started and that their mystery word is ofa certain number of characters long - this is their first clue.
 2. Instructions on how to exit the game at any point are given by simply typing 'exit'.
-3. A second clue is given in the form of a series of under scores, eg: '_ _ _ _ _ _ _', to indicate the mystery word and how many letters the player needs to guess in order to complete the word.
+3. A second clue is given in the form of a series of under scores, eg: '_ _ _ _ _ _ _', to indicate the mystery word and how many letters the player needs    to guess in order to complete the word.
 4. A third clue is given as a phase, this is the most important clue for the player.
+5. The playing is told to enter a letter.
+6. Correct Ans: Once a letter has been entered, if correct the letter fills its space(s), the player is congratulated and asked to make their next guess.
+   Incorrect Ans: If the player enters an incorrect answer, the letter is not included, the player is notified that they have made an error, they lose one    of their 6 chances to play and asked to make their next guess.
