@@ -127,6 +127,8 @@ Outcome
 
 <img width="892" alt="Hangman-Game_Flow-Chart" src="https://user-images.githubusercontent.com/99586803/164960623-75e2b2a8-0d51-4066-a017-3add0491bede.png">
 
+# TESTING
 
+In the spec file 'Hangman_Spec.rb', 2 specific tests are conducted for specific sections that I wanted to implement while developing the game. 
 
 
