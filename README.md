@@ -44,6 +44,14 @@ Colourised Text:
 
 Terminal is usually viewed in a simplistic form where text is a standard primary feature. Although Hangman is a simple game, if played in such a format as that of Terminal could become monotonous. In order to not only separate the game's text from the standard Terminal text, both bold and colourised text is used to stimulate the player. This colourised text also allows the player to easily identify different information given throughout the game. For example, if a player enters a correct answer the text colour is green, whereas if the player enters answers incorrectly the text is red.
 
+Game Text and its corresponding colours:
+Game Play Instructions:     YELLOW
+Exit Instructions:          BLUE
+Correct Answers:            GREEN
+Incorrect Answers:          RED
+Winning the Game:           GREEN
+Losing the Game:            RED
 
+Colorize: https://rubygems.org/gems/colorize/versions/0.8.1
 
 
