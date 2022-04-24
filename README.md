@@ -150,3 +150,11 @@ In the spec file 'Hangman_Spec.rb', 2 specific tests are conducted for specific 
 5. Open the Terminal application and enter the cmd:
    /Users/[user_name]/DonKountouris_T1A3/src/hangman.sh
    
+Alternitively, you can install the dependencies yourself:
+
+- Rspec: v3.11
+- Colorize: v8.1 (terminal cmd: gem install colorize)
+- ruby2d: v9.2 (terminal cmd: gem install ruby2d -v 0.9.2)
+- tty-spinner: (terminal cmd: gem install tty-spinner)
+- tty-font: (terminal cmd: )
+- pastel: (terminal cmd: gem install pastel)
