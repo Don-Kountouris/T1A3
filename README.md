@@ -156,5 +156,5 @@ Alternitively, you can install the dependencies yourself:
 - Colorize: v8.1 (terminal cmd: gem install colorize)
 - ruby2d: v9.2 (terminal cmd: gem install ruby2d -v 0.9.2)
 - tty-spinner: (terminal cmd: gem install tty-spinner)
-- tty-font: (terminal cmd: )
+- tty-font: (terminal cmd: gem install tty-font)
 - pastel: (terminal cmd: gem install pastel)
