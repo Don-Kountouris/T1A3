@@ -54,4 +54,9 @@ Losing the Game:            RED
 
 Colorize: https://rubygems.org/gems/colorize/versions/0.8.1
 
+Stylised Text:
 
+As with traditional arcade games, this game follows the 2D, 'raw' and block theme. While Terminal's options to style its themes are limiting, I have used the tty-font gem and pastel gem to allow for a grand beginning and end to the game. When the game begins there is a large 'HANGMAN' logo theme (tty-font) colourised in magenta (pastel) to welcome the player into the game. On the tail end, if the player wins the game there is a similar styled logo which announces to the player 'WELL DONE!' colourised in green. If the player loses there are told 'BAD LUCK' in red.
+
+tty-font: https://rubygems.org/gems/tty-font
+pastel: https://rubygems.org/gems/pastel
