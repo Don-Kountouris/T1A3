@@ -66,3 +66,11 @@ Suspense:
 A great addition to any game is suspense. Similar to TV Game Shows, such as The Chaser, contestants are never immediatley informed if their answers are right or wrong but are forced to wait a short period of time which easily creates suspense. In this game, when a player enters a letter, a small spinning line in square brackets indicates that their answer is being processed. This is done by using the spinner-gem. Once the line stops spiining, of the answer is correct a tick will appear. If the answer is wrong a cross will appear. This creates a small fraction of suspense while waiting for the outcome of the players answer. 
 
 tty-spinner: https://rubygems.org/gems/tty-spinner
+
+Sound FX:
+
+Another traditional arcade feature included in this game are retro arcade sound effects. There are many different sounds that are played corresponding to either awaiting a players input or the resulting output. This was made possible by using ruby2d gem.
+
+The sound samples are royalty free and sourced from the arcade section of mixkit: https://mixkit.co/free-sound-effects/arcade/ .
+
+ruby2d: https://rubygems.org/gems/ruby2d/versions/0.9.2
