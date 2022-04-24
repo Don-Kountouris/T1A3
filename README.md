@@ -153,8 +153,10 @@ App Installation
 2. Go to: git@github.com:Don-Kountouris/T1A3.git
 3. Select Code/Download ZIP
 4. Unzip DonKountouris_T1A3.
-5. via Terminal locate the file: $ cd /Users/[user_name]/T1A3-main/src
+5. via Terminal change directory to the src folder within T1A3-main: $ cd /src
 6. via Terminal run bundle: $ bundle
+      If you don not have bundler installed run: $ gem install bundler
+      If you need permission run: $ sudo gem install bundler
 7. via Termianl run: chmod +x hangman.sh
 8. via Terminal run app: ./hangman.sh
 
@@ -163,7 +165,7 @@ Alternitively, you can install the dependencies yourself:
 
 - Rspec: v3.11
 - Colorize: v8.1 (terminal cmd: gem install colorize)
-- ruby2d: v9.2 (terminal cmd: gem install ruby2d -v 0.9.2)
+- ruby2d: v11.3 (terminal cmd: gem install ruby2d -v 0.11.3)
 - tty-spinner: (terminal cmd: gem install tty-spinner)
 - tty-font: (terminal cmd: gem install tty-font)
 - pastel: (terminal cmd: gem install pastel)
