@@ -141,4 +141,12 @@ In the spec file 'Hangman_Spec.rb', 2 specific tests are conducted for specific 
 
 <img width="1310" alt="T1A3_Imlementation-Plan" src="https://user-images.githubusercontent.com/99586803/164960822-6c172981-88fa-4b0c-ba0f-0813b205a655.png">
 
+# INSTALLATION 
 
+1. Visit https://github.com/Don-Kountouris/T1A3_Terminal-Application
+2. Select Code.
+3. Select Download ZIP.
+4. Unzip DonKountouris_T1A3.
+5. Open the Terminal application and enter the cmd:
+   /Users/[user_name]/DonKountouris_T1A3/src/hangman.sh
+   
