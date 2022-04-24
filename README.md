@@ -83,3 +83,20 @@ As stated at the begining of the game, the player has the ability to exit the ga
 Text to Speech:
 
 As stated previously, the Game's Host will talk to the player via audio. The Host, who has a British accent, will repeat the written text making the game far more interactive. 
+
+# OUTLINE (USER INTERACTION)
+
+Main Menu
+
+"New game started... your word is (number of letters) characters long."
+- Indicating a new game has started.
+- The first clue is given in the form of the number of letters that exist in the word.
+
+"To exit the game at any point type 'exit'."
+- Instructions how the player can exit the game while playing.
+
+"_ _ _ _ ... _ _"
+- The mystery word is revealed as a series of under scores corresponding to its number of letters.
+
+"Clue: ..."
+- The second clue is given in the form of a phrase that describes or defines the word.
