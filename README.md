@@ -152,8 +152,7 @@ App Installation
 
 2. Go to: git@github.com:Don-Kountouris/T1A3.git
 3. Select Code/Download ZIP
-4. Unzip DonKountouris_T1A3.
-5. via Terminal change directory to the src folder within T1A3-main: $ cd /src
+5. via Terminal change directory to the /src within T1A3-main folder: $ cd /src
 6. via Terminal run bundle: $ bundle
       If you don not have bundler installed run: $ gem install bundler
       If you need permission run: $ sudo gem install bundler
