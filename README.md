@@ -1,10 +1,6 @@
 # T1A3 TERMINAL APPLICATION - Don Kountouris 11958
 <br>
 
-# GitHub Repository: NEED TO PASTE LINK
-<br>
-
-
 # OUTLINE & PURPOSE:
 
 In this assignment, I have developed a text based version of the game Hangman. Hangman is an old school favorite pencil and paper word game where the goal is simply to find the missing letters of a word. The player is presented with a number of blank spaces representing the missing letters you need to find. If the player guesses correctly, then the letters complete the word and they win. However, if an incorrect guess is made, the player loses a life and a part of the hangman is drawn. The object of the game is to guess the word before you either run out of lives or the picture of the hangman is completed.
