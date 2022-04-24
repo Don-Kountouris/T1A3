@@ -153,7 +153,7 @@ App Installation
 2. Go to: git@github.com:Don-Kountouris/T1A3.git
 3. Select Code/Download ZIP
 4. Unzip DonKountouris_T1A3.
-5. via Terminal locate the file: $ cd /Users/[user_name]/DonKountouris_T1A3/src
+5. via Terminal locate the file: $ cd /Users/[user_name]/T1A3-main/src
 6. via Terminal run bundle: $ bundle
 7. via Termianl run: chmod +x hangman.sh
 8. via Terminal run app: ./hangman.sh
