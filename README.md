@@ -123,3 +123,10 @@ Outcome
 "Game over, better luck next time."
 - If the player loses the game, the player is notified. 
 
+# CONTROL FLOW (FLOW CHART)
+
+<img width="892" alt="Hangman-Game_Flow-Chart" src="https://user-images.githubusercontent.com/99586803/164960623-75e2b2a8-0d51-4066-a017-3add0491bede.png">
+
+
+
+
