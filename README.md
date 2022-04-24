@@ -150,7 +150,7 @@ Installation of Ruby
 
 App Installation
 
-2. Go to: git@github.com:Don-Kountouris/T1A3.git
+2. Go to: https://github.com/Don-Kountouris/T1A3
 3. Select Code/Download ZIP
 5. via Terminal change directory to the /src within T1A3-main folder: $ cd /src
 6. via Terminal run bundle: $ bundle
