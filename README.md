@@ -143,12 +143,21 @@ In the spec file 'Hangman_Spec.rb', 2 specific tests are conducted for specific 
 
 # INSTALLATION 
 
-1. Visit https://github.com/Don-Kountouris/T1A3_Terminal-Application
-2. Select Code.
-3. Select Download ZIP.
+Installation of Ruby
+
+1. Install Ruby via Terminal: $ brew install ruby
+      If there are installation problems please visit: https;//www.ruby-lang.org/en/documentation/installation/
+
+App Installation
+
+2. Go to: git@github.com:Don-Kountouris/T1A3.git
+3. Select Code/Download ZIP
 4. Unzip DonKountouris_T1A3.
-5. Open the Terminal application and enter the cmd:
-   /Users/[user_name]/DonKountouris_T1A3/src/hangman.sh
+5. via Terminal locate the file: $ cd /Users/[user_name]/DonKountouris_T1A3/src
+6. via Terminal run bundle: $ bundle
+7. via Termianl run: chmod +x hangman.sh
+8. via Terminal run app: ./hangman.sh
+
    
 Alternitively, you can install the dependencies yourself:
 
