@@ -136,3 +136,9 @@ In the spec file 'Hangman_Spec.rb', 2 specific tests are conducted for specific 
 2. This second test is to confirm that the 'mystery word' is printed as a series of under scores that correspond to the number of letters in the 'mystery word'. Similar to the first test, it is important that the information given to the player by the game is accurate. If not the game is nonsencical and unplayable.
 
 * In addition, there are a series of tests labelled 'Hangman-Test_#' where I have constructed source code and tested the developed code at particular sections. These tests are simple 'save file and run' style testing. This testing doesn't test the entire code but a large portion of fundamental code that was developed.
+
+# IMPLEMENTATION PLAN
+
+<img width="1310" alt="T1A3_Imlementation-Plan" src="https://user-images.githubusercontent.com/99586803/164960822-6c172981-88fa-4b0c-ba0f-0813b205a655.png">
+
+
