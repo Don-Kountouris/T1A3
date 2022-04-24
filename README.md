@@ -1,5 +1,4 @@
 # T1A3 TERMINAL APPLICATION - Don Kountouris 11958
-<br>
 
 # OUTLINE & PURPOSE:
 
@@ -10,3 +9,12 @@ This program will resemble the game Hangman as an interactive text based version
 As Terminal can be very limiting and basic, when used as a means to play a game, I have attempted to make it as entertaining as possible. As with most word games, they can become monotonous, so I have added numerous different words that will be used at random. Having said that, word and number games are designed for a particular type of player and games such as this have an elemnt of longevity due to both their simplicity and difficulty.
 
 Traditionally, a game such as this is played using a pen and paper, but both these items are almost irrelevant in the current world where humans interact and communicate with a device over a pen and paper. Creating an 'app' version points towards an inevitable direction in our evolution as a technologically advanced species.
+
+# STRUCTURE OF THE GAME
+
+Introduction:
+
+1. The player is told that a new game has started and that their mystery word is ofa certain number of characters long - this is their first clue.
+2. Instructions on how to exit the game at any point are given by simply typing 'exit'.
+3. A second clue is given in the form of a series of under scores, eg: '_ _ _ _ _ _ _', to indicate the mystery word and how many letters the player needs to guess in order to complete the word.
+4. A third clue is given as a phase, this is the most important clue for the player.
