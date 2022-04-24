@@ -74,3 +74,11 @@ Another traditional arcade feature included in this game are retro arcade sound 
 The sound samples are royalty free and sourced from the arcade section of mixkit: https://mixkit.co/free-sound-effects/arcade/ .
 
 ruby2d: https://rubygems.org/gems/ruby2d/versions/0.9.2
+
+Exit Plan:
+
+As stated at the begining of the game, the player has the ability to exit the game at any time.
+
+Text to Speech:
+
+As stated previously, the Game's Host will talk to the player via audio. The Host, who has a British accent, will repeat the written text making the game far more interactive. 
